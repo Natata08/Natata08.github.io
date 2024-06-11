@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "question": "Which planet is known as the Red Planet?",
+    "answers": [
+      { "text": "Earth", "isCorrect": false },
+      { "text": "Mars", "isCorrect": true },
+      { "text": "Jupiter", "isCorrect": false },
+      { "text": "Saturn", "isCorrect": false }
+    ],
+    "explanation": "Mars is called the Red Planet because of its reddish appearance."
+  },
+  {
+    "id": 2,
+    "question": "What is the largest ocean on Earth?",
+    "answers": [
+      { "text": "Atlantic Ocean", "isCorrect": false },
+      { "text": "Indian Ocean", "isCorrect": false },
+      { "text": "Pacific Ocean", "isCorrect": true },
+      { "text": "Arctic Ocean", "isCorrect": false }
+    ],
+    "explanation": "The Pacific Ocean is the largest and deepest ocean on Earth."
+  },
+  {
+    "id": 3,
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "answers": [
+      { "text": "William Shakespeare", "isCorrect": true },
+      { "text": "Mark Twain", "isCorrect": false },
+      { "text": "Charles Dickens", "isCorrect": false },
+      { "text": "Jane Austen", "isCorrect": false }
+    ],
+    "explanation": "William Shakespeare wrote the tragedy 'Romeo and Juliet'."
+  },
+  {
+    "id": 4,
+    "question": "What is the hardest natural substance on Earth?",
+    "answers": [
+      { "text": "Gold", "isCorrect": false },
+      { "text": "Iron", "isCorrect": false },
+      { "text": "Diamond", "isCorrect": true },
+      { "text": "Silver", "isCorrect": false }
+    ],
+    "explanation": "Diamond is the hardest natural substance known to man."
+  },
+  {
+    "id": 5,
+    "question": "In which year did the Titanic sink?",
+    "answers": [
+      { "text": "1912", "isCorrect": true },
+      { "text": "1905", "isCorrect": false },
+      { "text": "1898", "isCorrect": false },
+      { "text": "1923", "isCorrect": false }
+    ],
+    "explanation": "The RMS Titanic sank in 1912 after hitting an iceberg."
+  },
+  {
+    "id": 6,
+    "question": "What is the smallest prime number?",
+    "answers": [
+      { "text": "1", "isCorrect": false },
+      { "text": "2", "isCorrect": true },
+      { "text": "3", "isCorrect": false },
+      { "text": "5", "isCorrect": false }
+    ],
+    "explanation": "The smallest prime number is 2."
+  },
+  {
+    "id": 7,
+    "question": "What is the chemical symbol for gold?",
+    "answers": [
+      { "text": "Au", "isCorrect": true },
+      { "text": "Ag", "isCorrect": false },
+      { "text": "Fe", "isCorrect": false },
+      { "text": "Pb", "isCorrect": false }
+    ],
+    "explanation": "The chemical symbol for gold is Au, derived from its Latin name 'Aurum'."
+  },
+  {
+    "id": 8,
+    "question": "Who developed the theory of relativity?",
+    "answers": [
+      { "text": "Isaac Newton", "isCorrect": false },
+      { "text": "Nikola Tesla", "isCorrect": false },
+      { "text": "Albert Einstein", "isCorrect": true },
+      { "text": "Galileo Galilei", "isCorrect": false }
+    ],
+    "explanation": "Albert Einstein developed the theory of relativity."
+  },
+  {
+    "id": 9,
+    "question": "What is the main ingredient in traditional Japanese miso soup?",
+    "answers": [
+      { "text": "Tofu", "isCorrect": false },
+      { "text": "Soybean paste", "isCorrect": true },
+      { "text": "Seaweed", "isCorrect": false },
+      { "text": "Fish", "isCorrect": false }
+    ],
+    "explanation": "The main ingredient in miso soup is soybean paste."
+  },
+  {
+    "id": 10,
+    "question": "Which element has the chemical symbol 'O'?",
+    "answers": [
+      { "text": "Osmium", "isCorrect": false },
+      { "text": "Oxygen", "isCorrect": true },
+      { "text": "Oganesson", "isCorrect": false },
+      { "text": "Oxium", "isCorrect": false }
+    ],
+    "explanation": "The chemical symbol 'O' stands for Oxygen."
+  },
+  {
+    "id": 11,
+    "question": "What is the capital city of Japan?",
+    "answers": [
+      { "text": "Beijing", "isCorrect": false },
+      { "text": "Seoul", "isCorrect": false },
+      { "text": "Tokyo", "isCorrect": true },
+      { "text": "Bangkok", "isCorrect": false }
+    ],
+    "explanation": "The capital city of Japan is Tokyo."
+  },
+  {
+    "id": 12,
+    "question": "Which element has the atomic number 1?",
+    "answers": [
+      { "text": "Oxygen", "isCorrect": false },
+      { "text": "Nitrogen", "isCorrect": false },
+      { "text": "Hydrogen", "isCorrect": true },
+      { "text": "Helium", "isCorrect": false }
+    ],
+    "explanation": "Hydrogen has the atomic number 1."
+  },
+  {
+    "id": 13,
+    "question": "What is the largest planet in our solar system?",
+    "answers": [
+      { "text": "Earth", "isCorrect": false },
+      { "text": "Mars", "isCorrect": false },
+      { "text": "Jupiter", "isCorrect": true },
+      { "text": "Saturn", "isCorrect": false }
+    ],
+    "explanation": "Jupiter is the largest planet in our solar system."
+  },
+  {
+    "id": 14,
+    "question": "Who is known as the father of modern physics?",
+    "answers": [
+      { "text": "Isaac Newton", "isCorrect": true },
+      { "text": "Albert Einstein", "isCorrect": false },
+      { "text": "Galileo Galilei", "isCorrect": false },
+      { "text": "Nikola Tesla", "isCorrect": false }
+    ],
+    "explanation": "Isaac Newton is often regarded as the father of modern physics."
+  },
+  {
+    "id": 15,
+    "question": "What is the tallest mountain in the world?",
+    "answers": [
+      { "text": "K2", "isCorrect": false },
+      { "text": "Mount Everest", "isCorrect": true },
+      { "text": "Kangchenjunga", "isCorrect": false },
+      { "text": "Lhotse", "isCorrect": false }
+    ],
+    "explanation": "Mount Everest is the tallest mountain in the world."
+  },
+  {
+    "id": 16,
+    "question": "Who painted the Mona Lisa?",
+    "answers": [
+      { "text": "Vincent van Gogh", "isCorrect": false },
+      { "text": "Pablo Picasso", "isCorrect": false },
+      { "text": "Leonardo da Vinci", "isCorrect": true },
+      { "text": "Claude Monet", "isCorrect": false }
+    ],
+    "explanation": "The Mona Lisa was painted by Leonardo da Vinci."
+  },
+  {
+    "id": 17,
+    "question": "What is the chemical formula for water?",
+    "answers": [
+      { "text": "H2O", "isCorrect": true },
+      { "text": "CO2", "isCorrect": false },
+      { "text": "O2", "isCorrect": false },
+      { "text": "NaCl", "isCorrect": false }
+    ],
+    "explanation": "The chemical formula for water is H2O."
+  },
+  {
+    "id": 18,
+    "question": "What is the longest river in the world?",
+    "answers": [
+      { "text": "Amazon River", "isCorrect": false },
+      { "text": "Nile River", "isCorrect": true },
+      { "text": "Yangtze River", "isCorrect": false },
+      { "text": "Mississippi River", "isCorrect": false }
+    ],
+    "explanation": "The Nile River is considered the longest river in the world."
+  },
+  {
+    "id": 19,
+    "question": "Who was the first President of the United States?",
+    "answers": [
+      { "text": "Abraham Lincoln", "isCorrect": false },
+      { "text": "Thomas Jefferson", "isCorrect": false },
+      { "text": "George Washington", "isCorrect": true },
+      { "text": "John Adams", "isCorrect": false }
+    ],
+    "explanation": "George Washington was the first President of the United States."
+  },
+  {
+    "id": 20,
+    "question": "What is the process by which plants make their food?",
+    "answers": [
+      { "text": "Respiration", "isCorrect": false },
+      { "text": "Transpiration", "isCorrect": false },
+      { "text": "Photosynthesis", "isCorrect": true },
+      { "text": "Fermentation", "isCorrect": false }
+    ],
+    "explanation": "Plants make their food through a process called photosynthesis."
+  }
+]
